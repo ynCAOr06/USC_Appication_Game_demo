@@ -6,7 +6,7 @@ The overall sourscode and project structure can be found on my
 
 [https://github.com/ynCAOr06/USC_Appication_Game_demo](https://github.com/ynCAOr06/USC_Appication_Game_demo)
 
-A more structured [pdf file](./Game_Project_Code_Demo.pdf )can be downloaded here [[download PDF](https://github.com/ynCAOr06/USC_Appication_Game_demo/raw/main/Game_Project_Code_Demo.pdf)]
+A more structured [pdf file](./Game_Project_Code_Demo.pdf) can be downloaded here [[download PDF](https://github.com/ynCAOr06/USC_Appication_Game_demo/raw/main/Game_Project_Code_Demo.pdf)]
 
 ## Dropnumber_2048
 ### Overview
