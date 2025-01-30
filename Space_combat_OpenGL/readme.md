@@ -2,6 +2,9 @@
 ### Overview
 This is a C++ game based on OpenGL.
 
+You can find all source code in /src
+Please download and unzip game.zip to play the game!
+
 Double Click !Game.exe to play the game.
 
 <div style="text-align: center;">
