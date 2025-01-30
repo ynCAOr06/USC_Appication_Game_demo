@@ -1,3 +1,5 @@
+Please unzip the game.zip files to see the excutable game files!
+
 Double Click !Game.exe to play the game!
 
 
