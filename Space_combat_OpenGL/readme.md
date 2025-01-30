@@ -40,7 +40,7 @@ Manipulation:
 	There are multiple objects rendered in the scene, including the planet, the spacecraft, the vehicle, the asteroid ring, the spacestation and the ufo.
 
 	The planet is mapped by combining 3 textures, including the earth surface, the 	earth cloud and the earth illumination.
-	(Reference: https://www.cgtrader.com/free-3d-models/space/planet/earth-and-	international-space-station)
+	(Reference: https://www.cgtrader.com/free-3d-models/space/planet/earth-and-international-space-station)
 	Also, the earth normal is mapped onto it. It does self-rotation all the time.
 
 	The spacecraft could be controlled with the instructions below, to make it more realistic, I've add the velocity and acceleration when moving forward and backward, so it takes some time for it to reach its max speed. You can hold left shift to increase the maximum velocity and acceleration.
