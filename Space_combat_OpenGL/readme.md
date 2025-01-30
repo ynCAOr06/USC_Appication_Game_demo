@@ -5,10 +5,10 @@ This is a C++ game based on OpenGL.
 Double Click !Game.exe to play the game.
 
 <div style="text-align: center;">
-  <img src="./Space_combat_OpenGL/Overview.png" width="400" height="300">
+  <img src="./Overview.png" width="400" height="300">
 </div>
 <div style="text-align: center;">
-  <img src="./Space_combat_OpenGL/texture.png" width="400" height="300">
+  <img src="./texture.png" width="400" height="300">
 </div>
 
 Instructions:
