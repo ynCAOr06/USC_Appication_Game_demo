@@ -4,6 +4,8 @@ This is a Unity game project.
 
 You can find all source code in /src. 
 
+Here you can have a [video demo](https://youtu.be/8J73Ipf_oyI)
+
 Run game.exe to play the game.
 
     Use "WASD" to control the movement of the player
