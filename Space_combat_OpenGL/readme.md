@@ -4,6 +4,8 @@ This is a C++ game based on OpenGL.
 
 You can find all source code in /src
 
+Here you can have a [video demo](https://youtu.be/Cu-0BpKtkrc)
+
 Please download and unzip both game.zip files to gain runable game program!
 
 Double Click !Game.exe to play the game.
