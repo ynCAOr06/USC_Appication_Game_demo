@@ -4,7 +4,7 @@ This is a C++ game based on OpenGL.
 
 You can find all source code in /src
 
-Please download and unzip game.zip to play the game!
+Please download and unzip both game.zip files to gain runable game program!
 
 Double Click !Game.exe to play the game.
 
